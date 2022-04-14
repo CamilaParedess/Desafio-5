@@ -1,0 +1,22 @@
+.p-20{
+    margin-top: 400px;
+}
+
+.logo-pagina{
+    font-family: 'Pacifico', cursive;
+    color: cornflowerblue;
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.borde-p{
+    border: black solid 1px;
+    border-radius: 10px;
+    background-color: rgb(226, 223, 223);
+
+}
+
+.padding{
+    padding: 13px;
+}
